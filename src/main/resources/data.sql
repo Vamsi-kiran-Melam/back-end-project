@@ -1,0 +1,10 @@
+INSERT INTO Employee (name, role, place, salary) values('vamsi','Developer', 'TCS synergy park hyd', 1500000),
+                                                 ('anand','Developer', 'TCS decan park hyd', 700000),
+                                                 ('David','Developer', 'TCS kohinoor park hyd', 1800000),
+                                                 ('samson','Developer', 'Google hyd', 1000000),
+                                                 ('Virat','Developer', 'Infosys  hyd', 600000),
+                                                 ('abd','Developer', 'Cognizant  hyd', 1600000),
+                                                 ('John','Developer', 'Microsoft  hyd', 1000000),
+                                                 ('Mohan','Developer', 'Nvidia hyd', 1900000),
+                                                 ('Paul','Developer', 'HCL hyd', 600000),
+                                                 ('Balu','Developer', 'HSBC hyd', 700000);
